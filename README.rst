@@ -3,6 +3,10 @@ twitter-text-python
 
 **twitter-text-python** is a Tweet parser and formatter for Python. Extract users, hashtags, URLs and format as HTML for display.
 
+----
+**UPDATE** this project is _now maintained by Ed Burnett_. Please go here for the active version: https://github.com/edburnett/twitter-text-python
+----
+
 It is based on twitter-text-java_ and did pass all the unittests of 
 twitter-text-conformance_ plus some additional ones. Note that the conformance tests are now behind (easy PR for someone to work on: https://github.com/ianozsvald/twitter-text-python/issues/5 ):
 
@@ -55,6 +59,8 @@ To use the shortlink follower:
 
 Installation
 ------------
+
+**NOTE** this version (Ian's) is no longer maintained, see Ed's active version instead: https://github.com/edburnett/twitter-text-python
 
 pip and easy_install will do the job::
 
